@@ -1,0 +1,3 @@
+function containDuplicate(nums){
+     
+}
